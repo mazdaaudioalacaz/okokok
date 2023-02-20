@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 만화 다시 보기 Free Video	</title>
+	<atom:link href="./../../%EB%A7%8C%ED%99%94-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EA%B8%B0-free-video/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:28:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: MERAL		</title>
+		<link>./../index.html#comment-26001</link>
+
+		<dc:creator><![CDATA[MERAL]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:28:18 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=13170#comment-26001</guid>
+
+					<description><![CDATA[Her şeyin işe yaramasına gerek yok. Yarın başka bir gün.]]></description>
+			<content:encoded><![CDATA[<p>Her şeyin işe yaramasına gerek yok. Yarın başka bir gün.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: SEZEN		</title>
+		<link>./../index.html#comment-25830</link>
+
+		<dc:creator><![CDATA[SEZEN]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:24:48 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=13170#comment-25830</guid>
+
+					<description><![CDATA[Cesaret, hayatımızı mükemmel kılan güçtür.]]></description>
+			<content:encoded><![CDATA[<p>Cesaret, hayatımızı mükemmel kılan güçtür.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

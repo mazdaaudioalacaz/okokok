@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 라 센트라	</title>
+	<atom:link href="./../../%EB%9D%BC-%EC%84%BC%ED%8A%B8%EB%9D%BC/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:28:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: DENİZ		</title>
+		<link>./../index.html#comment-26012</link>
+
+		<dc:creator><![CDATA[DENİZ]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:28:21 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=27245#comment-26012</guid>
+
+					<description><![CDATA[Bir çok insan yapabileceğini düşündüğünden daha ileri gitti, çünkü başka birinin yapabilececeğini düşündü.]]></description>
+			<content:encoded><![CDATA[<p>Bir çok insan yapabileceğini düşündüğünden daha ileri gitti, çünkü başka birinin yapabilececeğini düşündü.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: ÖZGE		</title>
+		<link>./../index.html#comment-25850</link>
+
+		<dc:creator><![CDATA[ÖZGE]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:24:49 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=27245#comment-25850</guid>
+
+					<description><![CDATA[Gün gelir puslu bir dünya aydınlık bir yaşama gebe kalır yeter ki umutların hiç bitmesin kalbin hangi mutluluk ve sevgi için çarpıyorsa yaşam sana onu versin. ]]></description>
+			<content:encoded><![CDATA[<p>Gün gelir puslu bir dünya aydınlık bir yaşama gebe kalır yeter ki umutların hiç bitmesin kalbin hangi mutluluk ve sevgi için çarpıyorsa yaşam sana onu versin. </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

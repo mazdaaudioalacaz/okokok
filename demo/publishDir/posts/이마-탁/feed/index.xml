@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 이마 탁	</title>
+	<atom:link href="./../../%EC%9D%B4%EB%A7%88-%ED%83%81/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:28:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: SEMA		</title>
+		<link>./../index.html#comment-26014</link>
+
+		<dc:creator><![CDATA[SEMA]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:28:22 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=35648#comment-26014</guid>
+
+					<description><![CDATA[İnsanların hangi fırtınalardan geçtiğini bilmeden yargılama.]]></description>
+			<content:encoded><![CDATA[<p>İnsanların hangi fırtınalardan geçtiğini bilmeden yargılama.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: UYGAR		</title>
+		<link>./../index.html#comment-25790</link>
+
+		<dc:creator><![CDATA[UYGAR]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:23:14 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=35648#comment-25790</guid>
+
+					<description><![CDATA[Benim kalbimi kırmak suya yazı yazmaya benzer, kırılan kalbimi düzeltmek gece doğan güneşe benzer. Sen o suya yazı yazmayı başardın şimdi güneşin doğmasını bekle…]]></description>
+			<content:encoded><![CDATA[<p>Benim kalbimi kırmak suya yazı yazmaya benzer, kırılan kalbimi düzeltmek gece doğan güneşe benzer. Sen o suya yazı yazmayı başardın şimdi güneşin doğmasını bekle…</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

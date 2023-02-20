@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 배그 웹툰	</title>
+	<atom:link href="./../../%EB%B0%B0%EA%B7%B8-%EC%9B%B9%ED%88%B0/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:28:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: ŞENOL		</title>
+		<link>./../index.html#comment-26008</link>
+
+		<dc:creator><![CDATA[ŞENOL]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:28:20 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=19364#comment-26008</guid>
+
+					<description><![CDATA[Bir Çiçeğin açmak için sebepler bulduğu gibi, Yaşama dair sebepler bulmak için yaşıyorum… Eğer bir gün gelir de yaşamak için bir sebep bulamazsam; Ölmek için bir sebep bulmuşum demektir]]></description>
+			<content:encoded><![CDATA[<p>Bir Çiçeğin açmak için sebepler bulduğu gibi, Yaşama dair sebepler bulmak için yaşıyorum… Eğer bir gün gelir de yaşamak için bir sebep bulamazsam; Ölmek için bir sebep bulmuşum demektir</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: FATİHMEHMET		</title>
+		<link>./../index.html#comment-25851</link>
+
+		<dc:creator><![CDATA[FATİHMEHMET]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:24:49 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=19364#comment-25851</guid>
+
+					<description><![CDATA[İstediğini almıyorsun diye şikayet etme, hakettiğini almamana sevin!]]></description>
+			<content:encoded><![CDATA[<p>İstediğini almıyorsun diye şikayet etme, hakettiğini almamana sevin!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

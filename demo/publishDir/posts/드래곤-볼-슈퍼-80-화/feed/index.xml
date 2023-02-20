@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 드래곤 볼 슈퍼 80 화	</title>
+	<atom:link href="./../../%EB%93%9C%EB%9E%98%EA%B3%A4-%EB%B3%BC-%EC%8A%88%ED%8D%BC-80-%ED%99%94/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:30:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: AYŞE		</title>
+		<link>./../index.html#comment-26243</link>
+
+		<dc:creator><![CDATA[AYŞE]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:30:18 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=24722#comment-26243</guid>
+
+					<description><![CDATA[Sesinizi yükseltmeyin, argümanınızı geliştirin.]]></description>
+			<content:encoded><![CDATA[<p>Sesinizi yükseltmeyin, argümanınızı geliştirin.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: İBRAHİM		</title>
+		<link>./../index.html#comment-17372</link>
+
+		<dc:creator><![CDATA[İBRAHİM]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 17:34:04 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=24722#comment-17372</guid>
+
+					<description><![CDATA[Sen gülerken yanındakilerde güler ama ağlarken yalnız ağlarsın onun için öyle bir ağaca yaslan ki asla yıkılmasın öyle bir dost edin ki seni asla bırakmasın.]]></description>
+			<content:encoded><![CDATA[<p>Sen gülerken yanındakilerde güler ama ağlarken yalnız ağlarsın onun için öyle bir ağaca yaslan ki asla yıkılmasın öyle bir dost edin ki seni asla bırakmasın.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

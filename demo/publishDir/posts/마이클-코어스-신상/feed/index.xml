@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 마이클 코어스 신상	</title>
+	<atom:link href="./../../%EB%A7%88%EC%9D%B4%ED%81%B4-%EC%BD%94%EC%96%B4%EC%8A%A4-%EC%8B%A0%EC%83%81/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:30:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: AHMETTUNÇ		</title>
+		<link>./../index.html#comment-26215</link>
+
+		<dc:creator><![CDATA[AHMETTUNÇ]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:30:09 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=31670#comment-26215</guid>
+
+					<description><![CDATA[Eğer herkes dost sandığı kimselerin bir de kendi arkasından söylemiş olduklarını duysaydı, dünyada pek az dost kalırdı.]]></description>
+			<content:encoded><![CDATA[<p>Eğer herkes dost sandığı kimselerin bir de kendi arkasından söylemiş olduklarını duysaydı, dünyada pek az dost kalırdı.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: SİNEM		</title>
+		<link>./../index.html#comment-12552</link>
+
+		<dc:creator><![CDATA[SİNEM]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 15:08:05 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=31670#comment-12552</guid>
+
+					<description><![CDATA[Sev öyle sev ki kalmasın sende gurur, Gurur’un başladığı yerde sevgi son bulur]]></description>
+			<content:encoded><![CDATA[<p>Sev öyle sev ki kalmasın sende gurur, Gurur’un başladığı yerde sevgi son bulur</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

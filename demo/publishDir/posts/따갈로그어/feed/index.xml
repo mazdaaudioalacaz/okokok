@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 따갈로그어	</title>
+	<atom:link href="./../../%EB%94%B0%EA%B0%88%EB%A1%9C%EA%B7%B8%EC%96%B4/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2023 21:28:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: HALİM		</title>
+		<link>./../index.html#comment-26075</link>
+
+		<dc:creator><![CDATA[HALİM]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:28:45 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=26600#comment-26075</guid>
+
+					<description><![CDATA[Bir zamanlar ardından bakar ağlardım şimdi dönüp ardıma bile bakmam. Bir zamanlar uğruna dünyaları yakardım şimdi şerefsizim kibrit bile çakmam!]]></description>
+			<content:encoded><![CDATA[<p>Bir zamanlar ardından bakar ağlardım şimdi dönüp ardıma bile bakmam. Bir zamanlar uğruna dünyaları yakardım şimdi şerefsizim kibrit bile çakmam!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: YÜCE		</title>
+		<link>./../index.html#comment-25635</link>
+
+		<dc:creator><![CDATA[YÜCE]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 21:18:41 +0000</pubDate>
+		<guid isPermaLink="false">https://biddik.xyz/?p=26600#comment-25635</guid>
+
+					<description><![CDATA[Bir çok insan yapabileceğini düşündüğünden daha ileri gitti, çünkü başka birinin yapabilececeğini düşündü.]]></description>
+			<content:encoded><![CDATA[<p>Bir çok insan yapabileceğini düşündüğünden daha ileri gitti, çünkü başka birinin yapabilececeğini düşündü.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
