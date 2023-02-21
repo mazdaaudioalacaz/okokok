@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	부산여자대학교 학습성과관리시스템 yazısına yapılan yorumlar	</title>
+	<atom:link href="./../../%EB%B6%80%EC%82%B0%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%8A%B5%EC%84%B1%EA%B3%BC%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Feb 2023 16:09:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
