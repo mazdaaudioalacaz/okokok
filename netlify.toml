@@ -6,9 +6,9 @@
   package = "./index.js"
   [plugins.inputs]
     # required configs, customize as needed
-    dirToScan = "/posts" # a subfolder to scan. "/" to scan all
+    dirToScan = "/" # a subfolder to scan. "/" to scan all
     authorName = "netlify"
-    site_url = "https://baskansanaba.netlify.app/"
+    site_url = "https://tankorea.pp.ua"
     title = "netlify RSS Feed"
     rssDescription = "netlify-plugin-rss RSS Feed"
     categories = ['Technology', 'JAMstack', 'Web Development']
